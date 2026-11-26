@@ -58,11 +58,13 @@ Two pages with State, Period and Order Status filters.
 
 **Sales:** orders, total revenue, AOV, average rating, revenue by month, payment methods, revenue by state, top 10 categories.
 
-![Sales page](images/dashboard_sales.png)
+![Sales page](<img width="932" height="520" alt="image" src="https://github.com/user-attachments/assets/a54a9d5f-bc03-472f-bf5e-74d2d8ba17d8" />
+)
 
 **Logistics:** delivery days and late-arrival share by state, orders by status, review score for on-time vs late orders.
 
-![Logistics page](images/dashboard_logistics.png)
+![Logistics page](<img width="931" height="519" alt="image" src="https://github.com/user-attachments/assets/cd457cc0-9edb-4849-a899-55e3c556b3a4" />
+)
 
 The Power BI file (`.pbix`) is available in [Releases](../../releases).
 
